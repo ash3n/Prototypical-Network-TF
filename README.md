@@ -1,1 +1,4 @@
-Encodes images to latent vectors and takes cosine similarity to previous training data to determine class.
+# Prototypical Networks
+TensorFlow implementation of "Prototypical Networks for Few-shot Learning" for Omniglot and face recognition.
+
+https://arxiv.org/abs/1703.05175
